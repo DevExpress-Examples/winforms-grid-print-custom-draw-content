@@ -19,7 +19,7 @@ Namespace MyXtraGrid
 			MyBase.New(args)
 		End Sub
 
-		Public Overrides Sub PrintFooterPanel(ByVal graph As IBrickGraphics)
+		Public Overrides Sub PrintFooterPanel(ByVal graph As BrickGraphics)
 			MyBase.PrintFooterPanel(graph)
 			CustomDrawFooterCells(graph)
 		End Sub
