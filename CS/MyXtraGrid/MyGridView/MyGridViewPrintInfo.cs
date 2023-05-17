@@ -20,7 +20,7 @@ namespace MyXtraGrid
         }
         public MyGridViewPrintInfo(DevExpress.XtraGrid.Views.Printing.PrintInfoArgs args) : base(args) { }
 
-        public override void PrintFooterPanel(IBrickGraphics graph)
+        public override void PrintFooterPanel(BrickGraphics graph)
         {
             base.PrintFooterPanel(graph);
             CustomDrawFooterCells(graph);
