@@ -54,7 +54,7 @@ namespace MyXtraGrid {
             this.gridColumn4});
             this.myGridView1.GridControl = this.myGridControl1;
             this.myGridView1.GroupCount = 1;
-            this.myGridView1.GroupFooterShowMode = DevExpress.XtraGrid.Views.Grid.GroupFooterShowMode.VisibleAlways;
+            this.myGridView1.OptionsView.GroupFooterShowMode = DevExpress.XtraGrid.Views.Grid.GroupFooterShowMode.VisibleAlways;
             this.myGridView1.GroupSummary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
             new DevExpress.XtraGrid.GridGroupSummaryItem(DevExpress.Data.SummaryItemType.Average, "Number", this.gridColumn2, "")});
             this.myGridView1.Name = "myGridView1";
