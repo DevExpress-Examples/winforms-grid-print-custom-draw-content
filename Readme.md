@@ -3,11 +3,7 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E2667)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-# How to customize the GridControl's print output
 
+# WinForms Data Grid - Print custom draw content
 
-<p>This example demonstrates how to override the default exporting process to take into account a custom drawn content provided via the <a href="http://documentation.devexpress.com/#WindowsForms/DevExpressXtraGridViewsGridGridView_CustomDrawFooterCelltopic">GridView.CustomDrawFooterCell Event</a></p>
-
-<br/>
-
-
+This example demonstrates how to create a custom grid control (`MyGridControl`) that extends printing functionality of the WinForms Data Grid control. The `MyGridControl` allows you to print custom painted footer cells ([CustomDrawFooterCell](https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.Views.Grid.GridView.CustomDrawFooterCell)).
