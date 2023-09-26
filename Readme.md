@@ -6,4 +6,4 @@
 
 # WinForms Data Grid - Print custom draw content
 
-This example demonstrates how to create a custom grid control (`MyGridControl`) that extends printing functionality of the WinForms Data Grid control. The `MyGridControl` allows you to print custom painted footer cells ([CustomDrawFooterCell](https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.Views.Grid.GridView.CustomDrawFooterCell)).
+This example creates a custom grid control (`MyGridControl`) that extends the printing functionality of the WinForms Data Grid control. `MyGridControl` allows you to print custom painted footer cells ([CustomDrawFooterCell](https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.Views.Grid.GridView.CustomDrawFooterCell)).
