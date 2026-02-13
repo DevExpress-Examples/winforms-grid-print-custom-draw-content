@@ -9,7 +9,7 @@
 
 This example creates a custom grid control (`MyGridControl`) that extends the printing functionality of the WinForms Data Grid control. `MyGridControl` allows you to print custom painted footer cells ([CustomDrawFooterCell](https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.Views.Grid.GridView.CustomDrawFooterCell)).
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-grid-print-custom-draw-content&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-grid-print-custom-draw-content&~~~was_helpful=no)
 
